@@ -1,4 +1,4 @@
 # branch_or_tag
 
-Adding next release's code
+Adding next patch's code
 Created to confirm behavior of tagging
